@@ -1,5 +1,5 @@
 <img align ="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
-I am an independent **node runner** and testnet enthusiast, passionate about contributing to the evolution of blockchain technology. Running nodes and participating in testnets allows me to be at the forefront of decentralized innovation, ensuring network security, and aiding in the development and testing of new blockchain protocols. 
+I am an independent node runner and testnet enthusiast, passionate about contributing to the evolution of blockchain technology. Running nodes and participating in testnets allows me to be at the forefront of decentralized innovation, ensuring network security, and aiding in the development and testing of new blockchain protocols. 
 
 &nbsp;
 
